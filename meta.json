@@ -1,0 +1,24 @@
+{
+ "name": "python3.13-tk",
+ "version": "3.13.18",
+ "license": "PSF-2.0",
+ "homepage": "https://docs.python.org/3/library/tkinter.html",
+ "licenses": [
+  "LICENSE",
+  "NOTICE.txt"
+ ],
+ "sources": [
+  "Python-3.13.18.tar.xz"
+ ],
+ "desc": "tkinter for Python 3.13: the Tk graphical toolkit (needs the X server of the xorg package: tos-x), with turtle",
+ "file": "python3.13-tk-3.13.18.tpkg",
+ "size": 135321,
+ "sha256": "b676491c3d686c72819950cba4c178ae5d705601daa7c96b5df46377c04ba72a",
+ "unpacked": 522496,
+ "min_build": 618,
+ "depends": [
+  "python3.13",
+  "tcltk"
+ ],
+ "commands": {}
+}
